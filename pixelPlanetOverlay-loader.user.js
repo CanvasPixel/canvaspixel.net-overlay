@@ -1,14 +1,14 @@
 
 // ==UserScript==
 // @name         canvaspixel.net picture overlay
-// @namespace    https://github.com/ByPikod/canvaspixel.net-overlay
+// @namespace    https://github.com/Woyken/pixelplanet.fun-OverlayPicture
 // @version      1.1.12
 // @description  Add your picture as overlay to canvaspixel.net
 // @author       Woyken
 // @include      https://canvaspixel.net/*
 // @include      https://www.canvaspixel.net/*
 // @grant        none
-// @downloadURL  https://bypikod.github.io/canvaspixel.net-overlay/pixelPlanetOverlay-loader.user.js
+// @downloadURL  https://yahyabatulu.com/canvaspixel.net-overlay/pixelPlanetOverlay-loader.user.js
 // ==/UserScript==
 /**/
 
