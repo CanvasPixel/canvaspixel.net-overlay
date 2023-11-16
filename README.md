@@ -10,7 +10,7 @@
 # How to setup
 
 1. Install tampermonkey addon for your browser from - <https://www.tampermonkey.net/> .
-2. Open <https://bypikod.github.io/canvaspixel.net-overlay/pixelPlanetOverlay-loader.user.js> .
+2. Open <https://canvaspixel.github.io/canvaspixel.net-overlay/pixelPlanetOverlay-loader.user.js> .
 3. Click "Install".
 4. Enjoy.
 
